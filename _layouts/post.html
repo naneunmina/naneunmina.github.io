@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-meta">
+    <time>{{ page.date | date: "%Y-%m-%d" }}</time>
+    {% if page.category %}<span class="post-category">{{ page.category }}</span>{% endif %}
+  </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
+  <a class="back-link" href="{{ '/' | relative_url }}">&larr; 목록으로</a>
+</article>

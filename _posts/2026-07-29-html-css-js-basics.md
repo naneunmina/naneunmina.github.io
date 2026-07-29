@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML, CSS, JS 기초 정리"
-category: SKALA 학습기록
+category: 학습기록
 ---
 
 프론트엔드를 처음 접할 때 꼭 알아야 하는 HTML/CSS/JS 기본 개념을 정리했다. 이미 알고 있는 사람보다는, 처음 시작하는 사람이 훑어보기 좋게 쓰려고 한다.

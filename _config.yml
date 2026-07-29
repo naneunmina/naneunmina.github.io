@@ -1,12 +1,12 @@
 title: 민아의 개발 블로그
-description: SKALA 학습기록 · 프로젝트 · 회고를 기록하는 기술 블로그
+description: 학습기록 · 프로젝트 · 회고를 기록하는 기술 블로그
 url: "https://naneunmina.github.io"
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
 categories_list:
-  - SKALA 학습기록
+  - 학습기록
   - 프로젝트
   - 회고
 

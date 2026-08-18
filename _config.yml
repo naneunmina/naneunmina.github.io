@@ -12,3 +12,6 @@ categories_list:
 
 exclude:
   - README.md
+  - vendor
+  - Gemfile
+  - Gemfile.lock
